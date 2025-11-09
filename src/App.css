@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+.friendBox{
+  border: 2px solid yellow;
+  border-radius: 15px;
+  margin-top: 5px;
+}
